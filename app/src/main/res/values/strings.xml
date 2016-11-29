@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook login</string>
+    <string name="facebook_app_id">1674963159480625</string>
+    <string name="action_settings">LogOut</string>
+</resources>
